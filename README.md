@@ -95,7 +95,7 @@ If you’re using **Jupyter Notebook**, follow these steps:
 
 ## 📸 Demo
 
-[demo_video](https://github.com/)<your-username>/OpenCV-Dynamic-Motion-Detection-Project/assets/demo.mp4
+[demo_video](https://youtu.be/NWKQXQL6vVQ)
 
 ---
 
