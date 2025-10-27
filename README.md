@@ -42,28 +42,54 @@ This project showcases real-time **computer vision, image differencing, and inte
 5. Displays a **motion detected alert** above the active ROI when motion occurs.
 6. ROIs can be cleared or redrawn during runtime.
 
----
+
 
 ## 💻 Installation & Setup
 
-1. **Clone the Repository:**
+### 🧠 **Option 1: Run in Jupyter Notebook**
 
-   ```bash
-   git clone https://github.com/<vidyasagar2405>/OpenCV-Dynamic-Motion-Detection-Project.git
-   cd OpenCV-Dynamic-Motion-Detection-Project
-   ```
+If you’re using **Jupyter Notebook**, follow these steps:
 
-2. **Install Dependencies:**
+1. **Install required libraries (if not already installed):**
 
    ```bash
    pip install opencv-python numpy
    ```
 
-3. **Run the Project:**
+2. **Open Jupyter Notebook:**
+
+   ```bash
+   jupyter notebook
+   ```
+
+3. **Load your notebook file** (for example:
+   `Dynamic_Motion_Detection.ipynb`).
+
+4. **Run the Cell** — the webcam will open and display the interactive motion detection window.
+
+---
+
+### 💻 **Option 2: Run as a Python Script**
+
+1. **Clone this repository:**
+
+   ```bash
+   git clone https://github.com/vidyasagar2405/OpenCV-Dynamic-Motion-Detection-Project.git
+   cd OpenCV-Dynamic-Motion-Detection-Project
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   pip install opencv-python numpy
+   ```
+
+3. **Run the script:**
 
    ```bash
    python dynamic_motion_detection.py
    ```
+
 
 ---
 
@@ -79,5 +105,4 @@ This project showcases real-time **computer vision, image differencing, and inte
 **[Vidya sagar]**
 💼 GitHub: [vidyasagar2405](https://github.com/vidyasagar2405)
 
----
 
