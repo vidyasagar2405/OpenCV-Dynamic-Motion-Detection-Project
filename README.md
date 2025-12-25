@@ -99,10 +99,3 @@ If you’re using **Jupyter Notebook**, follow these steps:
 
 ---
 
-
-## 🧑‍💻 Author
-
-**[Vidya sagar]**
-💼 GitHub: [vidyasagar2405](https://github.com/vidyasagar2405)
-
-
