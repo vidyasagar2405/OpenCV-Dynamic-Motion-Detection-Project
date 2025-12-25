@@ -1,4 +1,4 @@
-# OpenCV-Dynamic-Motion-Detection-Project
+# Dynamic-ROI-based-Motion-Detection using OpenCV
 
 
 This project demonstrates a **Dynamic Motion Detection System** built using **Python and OpenCV**, where users can **interactively draw multiple Regions of Interest (ROIs)** on a live video feed to detect motion **only inside those selected areas**.
@@ -74,8 +74,8 @@ If you’re using **Jupyter Notebook**, follow these steps:
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/vidyasagar2405/OpenCV-Dynamic-Motion-Detection-Project.git
-   cd OpenCV-Dynamic-Motion-Detection-Project
+   git clone https://github.com/vidyasagar2405/dynamic-roi-based-motion-detection.git
+   cd dynamic-roi-based-motion-detection
    ```
 
 2. **Install dependencies:**
